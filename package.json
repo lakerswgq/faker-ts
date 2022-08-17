@@ -1,5 +1,5 @@
 {
-  "name": "faker-ts",
+  "name": "@tfboys/faker-ts",
   "main": "dist/faker-ts.js",
   "typings": "dist/faker-ts.d.ts",
   "bin": "dist/bin/faker-ts.js",
